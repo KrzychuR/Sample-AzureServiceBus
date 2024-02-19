@@ -2,7 +2,7 @@ namespace Sample.Worker
 {
     using System.Threading.Tasks;
     using Consumers;
-    using Contracts;
+    using ContractsRefactored;
     using MassTransit;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.Hosting;

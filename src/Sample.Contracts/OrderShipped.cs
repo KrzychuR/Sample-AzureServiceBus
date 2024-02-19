@@ -1,4 +1,4 @@
-namespace Sample.Contracts
+namespace Sample.ContractsRefactored
 {
     using System;
 

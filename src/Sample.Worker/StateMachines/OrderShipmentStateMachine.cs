@@ -1,7 +1,7 @@
 namespace Sample.Worker.StateMachines
 {
     using System;
-    using Contracts;
+    using ContractsRefactored;
     using MassTransit;
     using Microsoft.Extensions.Logging;
 

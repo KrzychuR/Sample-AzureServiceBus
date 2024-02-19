@@ -2,7 +2,7 @@ namespace Sample.Api.Controllers
 {
     using System;
     using System.Threading.Tasks;
-    using Contracts;
+    using ContractsRefactored;
     using MassTransit;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.Extensions.Logging;

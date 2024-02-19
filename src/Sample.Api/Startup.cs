@@ -2,7 +2,7 @@ namespace Sample.Api
 {
     using System.Linq;
     using System.Threading.Tasks;
-    using Contracts;
+    using ContractsRefactored;
     using MassTransit;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Diagnostics.HealthChecks;

@@ -1,7 +1,7 @@
 namespace Sample.Worker.Consumers
 {
     using System.Threading.Tasks;
-    using Contracts;
+    using ContractsRefactored;
     using MassTransit;
     using Microsoft.Extensions.Logging;
 
